@@ -8,6 +8,11 @@ public class GitHubProject2 {
 		
 		System.out.println("Test 2....");
 		
+		
+		String name = "Mohammad";
+		int age = 32;
+		
+		
 	}
 
 }
