@@ -12,6 +12,8 @@ public class GitHubProject2 {
 		String name = "Mohammad";
 		int age = 32;
 		
+		System.out.println("New Changes From Master...");
+		
 		
 	}
 
